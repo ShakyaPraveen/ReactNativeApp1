@@ -13,7 +13,7 @@ import Demo1 from './components/Demo1';
 const App = () => {
     return (
         <View>
-            <Demo1 />
+            <Demo1 />  {/* Check components/Demo1 file.  */}
         </View>
     );
 };
