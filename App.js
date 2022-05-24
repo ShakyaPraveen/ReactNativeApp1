@@ -19,7 +19,7 @@ const App = () => {
             {/* <Demo1 /> */}
             {/* <Login /> */}
 
-            <ImageFile />     
+            <ImageFile />
 
 
 
