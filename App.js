@@ -16,10 +16,10 @@ import ImageFile1 from './components/ImageFile1';
 const App = () => {
     return (
         <View>
-            {/* <Demo1 /> */}
+            <Demo1 />
             {/* <Login /> */}
 
-            <ImageFile />
+            {/* <ImageFile /> */}
 
 
 
