@@ -4,7 +4,7 @@ import {
     Text,
     StyleSheet,
     Image,
-    Button
+    Button,
 } from 'react-native';
 // import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import Login from './components/Login';
@@ -16,13 +16,10 @@ import ImageFile1 from './components/ImageFile1';
 const App = () => {
     return (
         <View>
-            <Demo1 />
+            {/* <Demo1 /> */}
             {/* <Login /> */}
 
-            {/* <ImageFile /> */}
-
-
-
+            <ImageFile />
 
 
         </View>
@@ -30,3 +27,5 @@ const App = () => {
 };
 
 export default App;
+
+
